@@ -1,8 +1,9 @@
-# Code coverage
-![code coverage badge](https://github.com/AlbertoTonegari/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 
 # learn-cicd-starter (Notely)
 
+![code coverage badge](https://github.com/AlbertoTonegari/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/AlbertoTonegari/learn-cicd-starter/branch/main/graph/badge.svg?token=JZQZQZQZQZ)](https://codecov.io/gh/AlbertoTonegari/learn-cicd-starter)
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## New Line!
